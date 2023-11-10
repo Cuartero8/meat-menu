@@ -6,7 +6,10 @@ __________
 *Bebidas
   -Agua
   -Vino
-
+  
+ *Primeros Platos
+  -Lentejas
+  -Sopa de picadillo
 
 *Segundos Platos
   -Pollo con patatas fritas
