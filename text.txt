@@ -6,3 +6,7 @@ __________
 *Bebidas
   -Agua
   -Vino
+
+*Primeros Platos
+  -Lentejas
+  -Sopa de picadillo
