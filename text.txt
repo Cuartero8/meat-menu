@@ -1,1 +1,16 @@
+Equipo 1
 
+Menu carne
+__________
+
+*Bebidas
+  -Agua
+  -Vino
+  
+ *Primeros Platos
+  -Lentejas
+  -Sopa de picadillo
+
+*Segundos Platos
+  -Pollo con patatas fritas
+  -Entrecot con pure de patatas
